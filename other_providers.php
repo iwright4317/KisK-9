@@ -7,9 +7,9 @@
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Ki's K-9 Dog Training | Other dog services providers</title>
+	<title>Ki's K-9 Dog Training | Other pet services providers</title>
 	<meta name="description" content="Virginia Beach dog training; Ki's K-9 Dog training; Our Training 
-	Other dog services providers that you may be interested in. ">
+	Other resources for pet services providers that you may be interested in. ">
 	<meta name="author" content="">
 
    <!-- Mobile Specific Metas
@@ -50,8 +50,8 @@
    <div class="row" >
    		
 		<div class="ten columns align-left" style="text-align: left; vertical-align:bottom; color:black; ">
-			<br><h2>Other dog services providers</h2>			   			
-			Check-out these other dog services providers that you might be interested in.
+			<br><h2>Other resources for pet services providers</h2>			   			
+			Check-out these other pet services providers that you might be interested in.
 		</div>	
 		<div class="two columns align-right" style="text-align: left; vertical-align:bottom; color:black; ">
 			<img alt="FullSizeR1" src="FullSizeR1 (1) 100.jpg" height="60" > 
@@ -64,14 +64,15 @@
 
    <div class="row" >
    		<div class="twelve columns">
-			<h2>Pet sitting</h2>
-    <h3>Gloria's Doggy Day care</h3>
-    Full service dog day care and exercise service
+			<h2>Pet care - Midlothian, VA</h2>
+    <h3><a href="https://www.pawsandclawsva.com/" target=_blank>Paws & Claws Pet Services</a></h3>
+    Paws & Claws Pet Services provides IN HOME care for your pet. Whether it's a daily 
+    visit for a walk and play time or a weekly vacation 
+    visit <a href="https://www.pawsandclawsva.com/"  target=_blank>Paws & Claws Pet Services</a> has got you covered! <br>
+    
     	</div>
 	</div>
    
-
-
    <!-- footer
    ================================================== -->
    <footer>
