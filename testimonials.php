@@ -42,7 +42,7 @@
         	<div class="col-sm-12 " style="text-align: center">        
    				&nbsp;<p>
    				<h1>Virginia Beach Dog Training</h1>
-   				We provide top quality Virginia Beach dog training and for cities in the 757. 
+   				We provide top quality, compassionate Virginia Beach dog training and for cities in the 757. 
    			</div>
    		</div>
       

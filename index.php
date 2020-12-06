@@ -56,6 +56,7 @@
 			<h2>Free initial consult</h2>			 			
 			We are different because we do not have packages or a “one size fits all” type of training. We always do a free consult before setting up a plan because training is not one size fits all, and at Ki’s K-9, we pride ourselves on tailoring to every unique dogs’ needs. After our consult, we would be able to give a more concrete quote. We book by the week because every dog learns at a different rate!
 			<a href="contact.php"><u>Contact us today</u></a>, or call (757) 750-1517, or E-mail: Kisk9training@outlook.com 
+			Also, check-out these <a href="other_providers.php">other dog service providers</a>
 		</div>
 	</div>
  <!-- Info Section

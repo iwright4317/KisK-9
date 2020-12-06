@@ -62,7 +62,14 @@
          <div class="twelve columns align-left">
          	<h1>Virginia Beach Dog Training</h1>
 			
-We provide dog training in Virginia Beach and dog training in surrounding cities. We provide training one-on-one. Those too busy for scheduled training appointments, we train your dog while you work using our Pick and Train program.  We use relationship-based training and help you to understand your dog's point of view to build a strong foundation for training and help you and your dog to have a happy affinity. Along with relationship-based training, our philosophy of balanced training (marking good behavior, rewards, and having consequences to bad behavior) ensures that you and your dog will have a fun and loving relationship. <p>
+            We provide compassionate and professional dog training in Virginia Beach and in the surrounding cities 
+            of the 757. We use relationship-based training and help you to understand your dog's point of view.  
+            This builds a strong foundation for training and helps you and your dog to have a happy affinity. 
+            We provide training, with you and your dog, one-on-one. And for those too busy for scheduled training 
+            appointments, we train your dog while you are at work using our Pick-up and Train program. Along 
+            with relationship-based training, our philosophy of balanced training. This means marking good 
+            behavior with rewards and having consequences for bad behavior. This ensures that you and your dog 
+            will have a fun and loving relationship. <p>
                             <h3>Balanced Training</h3>
 <p>Your dog wants you to have the leadership role and wants to please you by behaving correctly. 
 	Rewards and negative consequences must occur at the time of the behavior because otherwise, 

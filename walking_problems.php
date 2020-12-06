@@ -61,7 +61,8 @@
       <div class="row">
          <div class="twelve columns align-left">
          	<h1>Virginia Beach Dog Training</h1>
-<p>We provide professional and compassionate dog training in Virginia Beach and in the 757. 
+<p>We provide professional and compassionate dog training in Virginia Beach and in 
+the 757 area. 
 	Please <a href="contact.php">contact us</a> for a free consultation. </p>
 	<h3>Dog walking problems</h3>
 	<p>

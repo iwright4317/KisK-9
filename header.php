@@ -32,10 +32,13 @@
 					<a href="training_prices.php" class="dropdown-toggle" data-toggle="dropdown" style="color:white">Behavior problems<span class="caret"></span></a>
 					<ul class="dropdown-menu">
                     <li><a href="resource_guarding.php">Resource guarding</a></li>  
+                    <li><a href="dog_aggression.php">Dog Aggression</a></li>  
+                    <li><a href="leash_reactive.php">Leash Reactive</a></li> 
                     <li><a href="excessive_barking.php">Excessive barking</a></li>  
                     <li><a href="walking_problems.php"> Walking problems</a></li> 
                     <li><a href="aggression.php">Aggression problems</a></li> 
                     <li><a href="crate_training.php">Crate training</a></li> 
+                    <li><a href="offleash_training.php">Off-leash training</a></li> 
                 	</ul>
 				  </li>
                   <li class="current"><a href="contact.php">Contact</a></li>

@@ -6,6 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>https://kisk-9dogtraining.com/</loc>
   <priority>1.00</priority>
@@ -39,6 +40,14 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://kisk-9dogtraining.com/dog_aggression.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kisk-9dogtraining.com/leash_reactive.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://kisk-9dogtraining.com/excessive_barking.php</loc>
   <priority>0.80</priority>
 </url>
@@ -51,6 +60,14 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://kisk-9dogtraining.com/crate_training.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kisk-9dogtraining.com/offleash_training.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://kisk-9dogtraining.com/contact.php</loc>
   <priority>0.80</priority>
 </url>
@@ -59,7 +76,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kisk-9dogtraining.com/crate_training.php</loc>
+  <loc>https://kisk-9dogtraining.com/other_providers.php</loc>
   <priority>0.80</priority>
 </url>
 <url>
