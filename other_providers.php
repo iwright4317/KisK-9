@@ -64,7 +64,7 @@
 
    <div class="row" >
    		<div class="twelve columns">
-			<h2>Pet care - Midlothian and Virginia Beach, VA</h2>
+			<h2>Pet care - Midlothian, and Virginia Beach, VA</h2>
     <h3><a href="https://www.pawsandclawsva.com/" target=_blank>Paws & Claws Pet Services</a></h3>
     Paws & Claws Pet Services provides IN HOME care for your pet. Whether it's a daily 
     visit for a walk and play time or a weekly vacation 
