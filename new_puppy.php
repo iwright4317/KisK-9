@@ -62,7 +62,7 @@
          <div class="twelve columns align-left">
          	<h1>Virginia Beach Dog Training</h1>
 <p>
-We are compassionate dog trainers and we provide effective and professional dog training in Virginia Beach and surrounding areas. 
+We are Virginia Beach dog trainers that focus on compassion and we provide effective and professional dog training in Virginia Beach and surrounding areas. 
 Why not <a href="contact.php">contact us today</a> for a free consultation?
 <h3>Reliability is the key</h3>
 <p>
