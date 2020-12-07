@@ -87,6 +87,10 @@
   <loc>https://kisk-9dogtraining.com/Balanced2.php</loc>
   <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://kisk-9dogtraining.com/new_puppy.php</loc>
+  <priority>0.64</priority>
+</url>
 
 
 </urlset>
