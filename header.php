@@ -19,6 +19,7 @@
 <a href="training_prices.php" class="dropdown-toggle" data-toggle="dropdown" style="color:white">Our Training<span class="caret"></span></a>
 	<ul class="dropdown-menu">
 		<li><a href="training_prices.php">Training prices</a></li>
+                            	<li><a href="new_puppy.php">Puppy Training</a></li>
                             	<li><a href="pickup.php">Pick-up and Train</a></li>
                             	<li><a href="relationship_training.php">Relationship-based</a></li> 
                             	<li><a href="Balanced.php">Balanced training</a></li>          
