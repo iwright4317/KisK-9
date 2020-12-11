@@ -69,13 +69,16 @@
  	<div class="twelve columns align-left" style="text-align: left"> 
 			<h1>Virginia Beach Dog Training</h1>
 			<p>
-			Hi! We provide top-quality Virginia Beach dog training and the 757. Our company is different because we do not have packages or a “one size fits all” 
-			type of training. We always do a free consult before setting up a plan because 
-			training is not one size fits all, and at Ki’s K-9 we pride ourselves on trailering 
-			to every unique dogs’ needs. After our consult, we would be able to give a more 
-			concrete quote. We book by the week because every dog learns at a different rate! 	
+			Hi! We provide compassionate, top-quality Virginia Beach dog training and dog 
+			training in the surrounding areas 
+We start your training experience with a free consult so you can see how we train and we can 
+tailor a training program specfically to you and your dogs needs. You will see the benefits of the 
+training and you only pay as you go. We believe all dogs should get training and we think cost should 
+not be a barrier to anyone have the best relationship with their dog, so we keep pour prices as low as 
+we can. Call us today (757) 750-1517 or <a href="contact.php">use our online form to schedule your free 
+consult</a>. 	
 			<p>
-We are compassionate about our training. Our training is based on your relationship with your unique dog. We help you to understand your dog's point of view and why he behaves as he does and this provides the foundation to build effective training. We work with what comes naturally to your dog to get reliably good behavior. It's also important to start with easily achievable goals to get quick, reliable successes before advancing the training. 	
+We are passionate about our training. Our training is based on your relationship with your unique dog. We help you to understand your dog's point of view and why he behaves as he does and this provides the foundation to build effective training. We work with what comes naturally to your dog to get reliably good behavior. It's also important to start with easily achievable goals to get quick, reliable successes before advancing the training. 	
 		</p>
 		<h3>Good dog training should be affordable</h3>
 		<p>
