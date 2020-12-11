@@ -65,8 +65,7 @@
 			<h3>Relationship based training</h3>
 			
 <p>We provide compassionate, top-quality Virginia Beach dog training and for cities in the 757.  
-	We use relationship-based training because it is mutually beneficial to the dog, owner, 
-	and trainer.</p>
+	Our training helps you achieve a better relationship with your dog. This helps you and your dog.</p>
 At Ki’s K-9, we not only use balanced training, we also like to incorporate relationship 
 based training along with balanced training. Relationship based training is a training 
 method that reconstructs your relationship with your dog and helps correct some unwanted 
