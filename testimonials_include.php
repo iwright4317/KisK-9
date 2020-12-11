@@ -15,7 +15,28 @@
    			<div class="col-sm-12 " style="text-align: left">
    		</div>
    		</div>  
-   			
+		   <div class="row" >
+        	<div class="col-sm-2 " style="border-top: 1px black solid; text-align: center">      
+   				Decmeber 3, 2020 | By Oliva 
+   			</div>
+   			<div class="twelve columns align-left" style="text-align: left">        
+   				<h3>Kiley has truly been a blessing</h3>
+   				<p>
+				   Kiley has truly been a blessing to my household. We have two dogs who were in desperate need 
+				   of training because they were so leash reactive. It was impossible for me to be able to walk 
+				   both of them at the same time.
+
+We saw an immediate difference in both dogs by the end of the first session! Asher and King were able to 
+make a dog-friend with Kiley's guidance by the fourth session! This was something I thought I would never see.
+She has been able to help us with resource guarding, leash reactivity, dog reactivity, barking, crate 
+training, calm training, and nail trimming!! Our dogs were anxious messes before she came along. We didn't 
+just want to seek help from a trainer to make our lives easier, but we wanted to make our dogs HAPPIER. 
+I wanted my dogs to have the highest quality of life that they could, and they are definitely getting 
+close to that all because of her! !		
+   				</p>              
+   			</div>
+   		</div>
+		   
    		<div class="row" >
         	<div class="col-sm-2 " style="border-top: 1px black solid; text-align: center">      
    				November 30, 2020 | By Courtney 
