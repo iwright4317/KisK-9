@@ -53,10 +53,9 @@
  </div>
  <div class="row" >
  		<div class="twelve columns">
-			<h2>Free initial consult</h2>			 			
+			<h2>5-Star Dog Trainer!</h2>			 			
 			We are different because we do not have packages or a “one size fits all” type of training. We always do a free consult before setting up a plan because training is not one size fits all, and at Ki’s K-9, we pride ourselves on tailoring to every unique dogs’ needs. After our consult, we would be able to give a more concrete quote. We book by the week because every dog learns at a different rate!
 			<a href="contact.php"><u>Contact us today</u></a>, or call (757) 750-1517, or E-mail: Kisk9training@outlook.com 
-			Also, check-out these <a href="other_providers.php">other dog service providers</a>
 		</div>
 	</div>
  <!-- Info Section
@@ -68,23 +67,36 @@
  		<h1>Virginia Beach Dog Training</h1>
  	</div>
  	<div class="twelve columns align-left" style="text-align: left"> 
- 		<h2>Plan and pricing overview</h2>
+ 		<h3>Plan and pricing overview</h3>
  		
  		<img alt="logo Ki's K-9" style="float: right;height: 60px;" src="IMG_22221100.jpg" height="60" > 
 <p>
 We have many years of experience in all types of compassionate dog training and we offer Virginia Beach dog training and dog training in surrounding areas. One of our top goals is to make dog training more affordable. We provide a free consultation to get to know you and your dog. We know your dog is unique and your relationship with your dog is important to you.  Depending on your needs, we will guide you to determine the level of training (puppy training, advanced obedience, behavior modification training, etc.) that your dog should get to help help you have the best relationship with your dog.
 </p>
-
+<h3>It's learning for your dog</h3>
 <p>
 We will work with you one on one, or we come to your home when you are working or busy and train your dog(s) in your home. In-home sessions are a great way to get your dog on the path of learning good behavior since your dog can really progress when starting with familiar surroundings. We video record the sessions so you can see how we train so you can keep the training going.</p>
 </p>
-
+<h3>Improve your relationship with your dog</h3>
 <p>
 We help you to read your dog's body language and understand other ways your dog uses to communicate with you. This will help you to understand your dog's point of view because when we fully understand our dogs, it is much easier to have a better relationship.
 </p>
-
+<h3>Compassionate training</h3>
 <p>
-One of the first things in training your dog is figuring out what gets your dog's attention and motivates your dog to learn good behavior. For some dogs, affection gets them motivated to learn. Other dogs  will work for treats! We can build good relationships with our dogs by using these motivators to reinforce good behavior. We try to reinforce good behavior to replace unwanted behavior. Relationship-based training is very effective and helps you and your dog. Learn more
+One of the first things in training your dog is figuring out what gets your dog's attention and motivates 
+your dog to learn good behavior. For some dogs, affection gets them motivated to learn. Other dogs  
+will work for treats! We can build good relationships with our dogs by using these motivators to reinforce 
+good behavior. We try to reinforce good behavior to replace unwanted behavior. Relationship-based 
+training is very effective and helps you and your dog. 
+<a href="https://kisk-9dogtraining.com/relationship_training.php">Learn more</a>.
+</p>
+<h3>If you need pet-sitting</h3>
+<p>
+We don't offer pet sitting or dog walking, but Paws & Claws Pet Services provides IN HOME care for your pet. 
+Whether it's a daily visit for a walk and play time or a weekly vacation visit Paws & Claws has got you 
+covered! Please checkout 
+<a href="https://www.pawsandclawsva.com/" target=_blank>dog walking</a> and the other services 
+at Paws & Claws Pet Services. 
 </p>
 
 
@@ -161,10 +173,10 @@ owner, and trainer. <br>
 		</div>
 	</div>	
 
- <!-- <?php include 'testimonials_include.php';?> -->
+ <!-- include 'testimonials_include.php'; -->
 
  <!-- footer
- ================================================== -->
+ ================================================== 
  <footer>
 
  <div class="row">
@@ -187,7 +199,7 @@ owner, and trainer. <br>
  <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
  <li><a href="#"><i class="fa fa-skype"></i></a></li>
  <li><a href="#"><i class="fa fa-rss"></i></a></li>
- </ul>
+ </ul> -->
 
  <!-- <ul class="copyright">
  <li>Copyright &copy; 2014 Sparrow</li> 

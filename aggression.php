@@ -94,14 +94,15 @@ We have found that aggressive behavior does not correct itself. Aggressive behav
 
 
    <!-- footer
-   ================================================== -->
+   ================================================== 
    <footer>
 
       <div class="row">
 
          <div class="twelve columns">
+ 
 
-            <ul class="footer-nav">
+         <ul class="footer-nav">
 					<li><a href="#">Home.</a></li>
               	<li><a href="#">Blog.</a></li>
               	<li><a href="#">Portfolio.</a></li>
@@ -119,10 +120,10 @@ We have found that aggressive behavior does not correct itself. Aggressive behav
                <li><a href="#"><i class="fa fa-rss"></i></a></li>
             </ul>
 
-            <!-- <ul class="copyright">
+             <ul class="copyright">
                <li>Copyright &copy; 2014 Sparrow</li> 
                <li>Design by <a href="http://www.styleshout.com/">Styleshout</a></li>               
-            </ul> -->
+            </ul> 
 
          </div>
 
@@ -130,7 +131,7 @@ We have found that aggressive behavior does not correct itself. Aggressive behav
 
       </div>
 
-   </footer> <!-- Footer End-->
+   </footer>  Footer End-->
 
    <!-- Java Script
    ================================================== -->
