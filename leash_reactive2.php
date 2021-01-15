@@ -64,8 +64,7 @@
 <p>Let us compassionately improve your dog's leash reactivity. <a href="contact.php">contact us</a> We are know we can improve your leash time with your dog. 
 <h3>What does leash reactivity mean?</h3>
 <p>
-When we say "reactivity" what we mean is how does your dog respond to being on a leash? We are concerned, of course, when this response is not what we want like lunging, barking, and biting. 
-So, if you feel that your dog is leash reactive, let's talk about some reasons for this.</p>
+When we say "reactivity" what we mean is that your dog is responding in a way that we don't want. So when it comes to leash reactivity, we mean your dog is not responding to the leash as we want. How does your dog respond to being on a leash? We are concerned, of course, when this response is not what we want like lunging, barking, and biting. So, if you feel that your dog is leash reactive, let's talk about some reasons for this.</p>
 <h3>Annoyance</h3>
 <p>
 Your dog may be annoyed with the restriction that that leash causes. Let's discuss some reasons for this. As a young puppy, your dog was probably allowed to greet every passerby while on walks. This is a great experience for your dog and helps your dog to be sociable. Often though, we sometimes start to restrict this socializing using the leash. For highly socialized dogs, we need to consider allow these dogs to experience more socializing while on a leash. 
@@ -77,9 +76,16 @@ Some dogs never experienced high socializing we just talked about. For these dog
 <h3>Other reasons</h3>
 <p>
 Sometimes there are other reasons that dogs are leash reactive. We will work with you and understand your dog to greatly improve your dog's leash reactivity. If your dog has strong "alpha" tendencies, it could lead to leash reactivity since these alpha dogs want to dominate other dogs. We can deal with this too. 
-
-
+</p>
+<h3>This is important</h3>
 <p>	
+As we mentioned before, leash reactivity is a serious problem and you should have it addressed by a professional dog trainer. Leash reactivity can lead to injury to yourself, your dog, or other dogs or people. Leash reactivity also makes walks difficult and not enjoyable. This will lead to less walking and that's not good either. We are confident that after we meet with you and your dog, We can quickly improve your dog's leash reactivity problems and make your walks with your dog fun and safe again. If you check out our testimonials, you will see how our clients are very happy with our services and you will be too. The soon you help your dog's leash reactivity problems, the better for you and your dog. 
+</p>
+<h3>We would love to meet you and your dog</h3>
+<p>
+We offer a free initial consultation, so there is no risk to you. We will talk with you and learn about your dog and your thoughts on 
+what improvements you would like to see in your dog. Please <a href="contact.php">contact us today </a>and schedule your first free initial consultation. We are confident you will not regret it!
+</p>
 <b>Videos of Leash Reactive problems. </b><br>
 <table border="1"><tr><td>Asher was a very dog reactive dog 
 <iframe  height="440" src="https://www.instagram.com/p/CIXDJnCHcPd/embed" frameborder="0"></iframe>
