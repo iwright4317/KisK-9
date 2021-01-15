@@ -93,6 +93,7 @@ owner and it is not that interesting, they will become less reactive and the end
 completely ignore these triggers or passively pass them. If you think your dog may be leash reactive, 
 please contact us for a free consultation. Please watch the video from the link below.</p>
 <p>	
+<a href="leash_reactive2.php">More leash reactive info</a></p>
 <b>Videos of Leash Reactive problems. </b><br>
 <table border="1"><tr><td>Asher was a very dog reactive dog 
 <iframe  height="440" src="https://www.instagram.com/p/CIXDJnCHcPd/embed" frameborder="0"></iframe>

@@ -47,7 +47,7 @@
       <div class="row" >
    		
 		<div class="ten columns align-left" style="text-align: left; vertical-align:bottom; color:black; ">
-			<br><h2>Leash Reactivity </h2>			 
+			<br><h2>More on Leash Reactivity </h2>			 
 		</div>	
 		<div class="two columns"  style="text-align: right">	 
 			<img alt="logo Ki's K-9" src="IMG_22221100.jpg" height="60" > 		
@@ -61,37 +61,24 @@
       <div class="row">
          <div class="twelve columns align-left">
          	<h1>Virginia Beach Dog Training</h1>
-<p>For a free consultation, <a href="contact.php">contact us today</a> We are compassionate dog 
-trainers for clients in Virginia Beach and surrounding areas. 
-	
-	<h3>What is Leash Reactivity?</h3>
-	<p>
-When dogs are leash reactive, they can make walks very difficult and honestly quite dangerous. Sometimes when you put a dog on a leash and have a restraint on them, they turn into a different dog. The dog may try to lunge and pull towards people and dogs, barking or showing aggressive or extremely alert body language. Does your dog have their hackles up, stare at other people or dogs? Does your dog have their tail straight up, bark or lunge? Does your dog randomly explode at dogs or people with little to no warning? If so, your dog may be leash reactive. 
+<p>Let us compassionately improve your dog's leash reactivity. <a href="contact.php">contact us</a> We are know we can improve your leash time with your dog. 
+<h3>What does leash reactivity mean?</h3>
+<p>
+When we say "reactivity" what we mean is how does your dog respond to being on a leash? We are concerned, of course, when this response is not what we want like lunging, barking, and biting. 
+So, if you feel that your dog is leash reactive, let's talk about some reasons for this.</p>
+<h3>Annoyance</h3>
+<p>
+Your dog may be annoyed with the restriction that that leash causes. Let's discuss some reasons for this. As a young puppy, your dog was probably allowed to greet every passerby while on walks. This is a great experience for your dog and helps your dog to be sociable. Often though, we sometimes start to restrict this socializing using the leash. For highly socialized dogs, we need to consider allow these dogs to experience more socializing while on a leash. 
 </p>
-<h3>How is Leash Reactivity a problem?</h3>
-	<p>
-This is an extremely common behavioral problem because it is simply unnatural for your dog have on a leash. The restraint can cause them to feel tense; thus becoming reactive. This behavior can be extremely dangerous, especially with large dogs, due to the fact that they are powerful and can knock you over to get to what they want. This can also lead to dog bites on a human or another animal. This can also be very dangerous to owners, going downstairs you can break bones, or have serious injuries. 
+<h3>Anxiety</h3>
+<p>
+Some dogs never experienced high socializing we just talked about. For these dogs, they may have bad experiences with other dogs These dogs; may have had no way to escape being attacked by other dogs. For these dogs, the leash feels like they are trapped again. We help these dogs to have good experiences with other dogs. 
 </p>
-<h3>What is my dog thinking?</h3>
-	<p>
-I use an analogy with my clients, I tell them "imagine if a security guard is holding you back, you will feel very tense and probably will become reactive because of the restraint." Because of this unnatural restraint, many dogs do become leash reactive because they want to see that person or dog so badly, that it can become very inappropriate, loud, and dangerous. Or, they will stop paying attention to their owner on walks to try to pull to people and dogs.
-</p>
-<h3>We can help</h3>
-	<p>
-Leash reactivity can be fixed by working with a professional who can show you how to properly counter condition them to these triggers. This behavior is usually fear-based, and thus can be corrected at the root of the problem. Initially, it is best to completely avoid dog to dog meetings on leashes because there is tension in both dogs. 
-</p>
-<h3>This problem should be corrected</h3>
-	<p>
-It’s extremely important that your dog pays attention to you on walks, so leash reactivity is a very 
-serious problem for many dogs. Some dogs are reactive to squirrels, other people, other dogs, cats, trucks, 
-loud noises, or sometimes men. By the term “reactive” we mean the dog behaves very improperly to the 
-trigger by barking, lunging, pulling, or crying. During training, we work extremely hard to get the dog 
-desensitized to these triggers so they can calmly pass these triggers without reacting, lunging, barking, 
-pulling, or crying. We want you to be able to trust your dog on a walk and with proper training, this 
-is attainable. Once the dog realizes the trigger is not more important than paying attention to their 
-owner and it is not that interesting, they will become less reactive and the end goal is for the dog to 
-completely ignore these triggers or passively pass them. If you think your dog may be leash reactive, 
-please contact us for a free consultation. Please watch the video from the link below.</p>
+<h3>Other reasons</h3>
+<p>
+Sometimes there are other reasons that dogs are leash reactive. We will work with you and understand your dog to greatly improve your dog's leash reactivity. If your dog has strong "alpha" tendencies, it could lead to leash reactivity since these alpha dogs want to dominate other dogs. We can deal with this too. 
+
+
 <p>	
 <b>Videos of Leash Reactive problems. </b><br>
 <table border="1"><tr><td>Asher was a very dog reactive dog 
