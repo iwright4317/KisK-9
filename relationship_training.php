@@ -75,8 +75,9 @@ owner and dog, and In many circumstances, the reason behind some behavioral issu
 and your dog’s relationship. </p>
 <h3>Let us help you bond with your dog</h3>
 <p>
-At Ki’s K-9, we would be able to find that out through or 
-consultation and if that is one of the reasons for unwanted behavior, we help you reconstruct 
+At Ki’s K-9, we would be able to find that out through our 
+consultation how to build a rewarding relationship with your dog. Without it, is one of the reasons for unwanted behavior. 
+We help you reconstruct 
 your relationship with your dog. Not only does this method strengthen the bond between you 
 and your dog, it also helps with your dogs interactions with other people as well. After 
 reconstructing the relationship, your dog will have more appropriate greetings and behave 

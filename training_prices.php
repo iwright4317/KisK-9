@@ -67,7 +67,7 @@
       <div class="row">
 
  	<div class="twelve columns align-left" style="text-align: left"> 
-			<h1>Virginia Beach Dog Training</h1>
+	 <a href="contact.php"><h1>Virginia Beach Dog Training</h1>
 			<p>
 			Hi! We provide compassionate, top-quality Virginia Beach dog training and dog 
 			training in the surrounding areas 
@@ -75,12 +75,13 @@ We start your training experience with a free consult so you can see how we trai
 tailor a training program specfically to you and your dogs needs. You will see the benefits of the 
 training and you only pay as you go. We believe all dogs should get training and we think cost should 
 not be a barrier to anyone have the best relationship with their dog, so we keep pour prices as low as 
-we can. Call us today (757) 750-1517 or <a href="contact.php">use our online form to schedule your free 
+we can. Call us today (757) 750-1517 or use our online form to schedule your free 
 consult</a>. 	
 			<p>
+			<a href="relationship_training.php"><h2>Success is our goal</h2>
 We are passionate about our training. Our training is based on your relationship with your unique dog. We help you to understand your dog's point of view and why he behaves as he does and this provides the foundation to build effective training. We work with what comes naturally to your dog to get reliably good behavior. It's also important to start with easily achievable goals to get quick, reliable successes before advancing the training. 	
-		</p>
-		<h3>Good dog training should be affordable</h3>
+		</a></p>
+		<h2>Good dog training should be affordable</h2>
 		<p>
 I have a German shepherd dog that is a rescue and lived in 3 different homes times before coming to live with me. He has been a life-changer for me and led me to professionally train dogs, after learning dog training is my calling in life. 
 Unfortunately, untrained dogs are the norm, and trained dogs really stood out. I wanted to make one-on-one dog training more affordable for people. I also offer Pick-up and Train for the super-busy. Sadly, sometimes dogs are removed from the home because of bad behavior. This can be avoided through training. I don't want the cost of training to stop dogs from getting the training they should have. Good training benefits the whole family, the dog, and the people and animals around us. I invite you to take a look at my testimonials page to read what my customers have to say about my training. My success encourages me to work harder to improve dog behavior.
@@ -96,28 +97,28 @@ Unfortunately, untrained dogs are the norm, and trained dogs really stood out. I
 				<li>Boot camp: $200 for 5 hours of one on one training </li>
 				<li>Every service, except initial consult, includes $20 travel fee</li>
 			</ul>
-			<br><h3>Free initial consult</h3>
+			<br><a href="contact.php"><h3>Free initial consult</h3>
 			<p>	
 			The first consultation with us is free! We offer dog training in Virginia Beach 
 			and surrounding cities of the 757. Before we recommend and dog training for you and 
 your dog, we want to hear from you about what you are looking for. Then after 
 meeting your dog, we will give you recommendations on training that would be best for 
 your dog’s specific needs. We will give you an estimate of the cost and time. We work around 
-your schedule, <a href="contact.php">book by the week</a>, and <a href="contact.php"> Pick-up 
-	and Train </a> to provide the most options to meet your needs. Since your dog is unique, 
+your schedule, book by the week, and Pick-up 
+	and Train to provide the most options to meet your needs. Since your dog is unique, 
 	we create a special training plan for your dog. If you live in Virginia Beach or 
-	surrounding areas <a href="contact.php">contact us</a> today (757) 750-1517 or E-mail: 
-	Kisk9training@outlook.com	</p>
+	surrounding areas contact us today (757) 750-1517 or E-mail: 
+	Kisk9training@outlook.com	</a></p>
       </div>
 
    </section> <!-- Info Section End-->
 
-   <!-- <?php include 'testimonials_include.php';?> -->
+   <!-- <?php //include 'testimonials_include.php';?> -->
    
 
 
    <!-- footer
-   ================================================== -->
+   ================================================== 
    <footer>
 
       <div class="row">
@@ -145,14 +146,14 @@ your schedule, <a href="contact.php">book by the week</a>, and <a href="contact.
             <!-- <ul class="copyright">
                <li>Copyright &copy; 2014 Sparrow</li> 
                <li>Design by <a href="http://www.styleshout.com/">Styleshout</a></li>               
-            </ul> -->
+            </ul> 
 
          </div>
-
+		 
          <div id="go-top" style="display: block;"><a title="Back to Top" href="#">Go To Top</a></div>
 
       </div>
-
+	  -->
    </footer> <!-- Footer End-->
 
    <!-- Java Script

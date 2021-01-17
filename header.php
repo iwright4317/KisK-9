@@ -23,6 +23,7 @@
                             	<li><a href="pickup.php">Pick-up and Train</a></li>
                             	<li><a href="relationship_training.php">Relationship-based</a></li> 
                             	<li><a href="Balanced.php">Balanced training</a></li>          
+                            	<li><a href="compassion_based_training.php">Compassionate training</a></li>          
                             	<li><a href="ecollar.php">E-collar training</a></li>                   
                 </ul>
 </li>
